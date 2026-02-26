@@ -1,0 +1,5 @@
+{
+  "name": "ScholarCheck: Elsevier Paper Advisor",
+  "description": "Analyze research papers for Elsevier journal compatibility, acceptance probability, and improvement suggestions.",
+  "requestFramePermissions": []
+}
